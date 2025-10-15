@@ -30,7 +30,7 @@
 
 ## **🔥**Updates
 
-- `[Oct 15, 2025]` 🔧 Added hybrid rule support for reward functions with rule-based and LLM-based verification!
+- `[Oct 15, 2025]` 🔧 Added support for reward functions with hybrid rule-based verification!
 - `[Sep 26, 2025]` 💻 Released RuscaRL code!
 - `[Aug 23, 2025]` 📝 Released RuscaRL paper on arXiv!
 

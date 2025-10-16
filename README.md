@@ -111,19 +111,19 @@ The data format we use contains the following key fields:
 
 We provide conversion scripts for several high-quality open-source Rubric datasets to facilitate research and development: [**`HealthBench`**](https://openai.com/index/healthbench/), [**`RaR`**](https://huggingface.co/datasets/anisha2102/RaR-Medicine-20k-o3-mini), [**`ResearchQA`**](https://huggingface.co/datasets/realliyifei/ResearchQA).
 
-Use the provided data processing scripts in the `RuscaRL_prepare_data/` directory:
+Use the provided data processing scripts in the `rubric_prepare/` directory:
 
 ```bash
 cd RuscaRL
 
 # Process HealthBench data
-python RuscaRL_prepare_data/prepare_healthbench.py
+python rubric_prepare/prepare_healthbench.py
 
 # Process RaR (Rubrics as Rewards) data  
-python RuscaRL_prepare_data/prepare_rar.py
+python rubric_prepare/prepare_rar.py
 
 # Process ResearchQA data
-python RuscaRL_prepare_data/prepare_researchqa.py
+python rubric_prepare/prepare_researchqa.py
 ```
 
 

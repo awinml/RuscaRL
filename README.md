@@ -19,16 +19,16 @@
 
 ## 🧭 Contents
 
-- **🔥** [Updates](#-updates)
+- 🔥 [Updates](#-updates)
 - 📖 [Overview](#-overview)
 - 🗂️ [Dataset](#-dataset)
 - ⚙️ [Installation](#-installation)
-- 🧩 [Configuration](#️-configuration-and-launch)
+- 🧩 [Configuration](#-configuration)
 - ⚡ [Training](#-training)
 - 📝 [Citation](#-citation)
 - 📧 [Contact](#-contact)
 
-## **🔥**Updates
+## 🔥 Updates
 
 - `[Oct 15, 2025]` 🔧 Added support for reward functions with hybrid rule-based verification!
 - `[Sep 26, 2025]` 💻 Released RuscaRL code!

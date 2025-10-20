@@ -21,7 +21,7 @@
 
 - **🔥** [Updates](#-updates)
 - 📖 [Overview](#-overview)
-- 📊 [Data Format](#-data-format)
+- 🗂️ [Dataset](#-dataset)
 - ⚙️ [Installation](#-installation)
 - 🧩 [Configuration](#️-configuration-and-launch)
 - ⚡ [Training](#-training)
@@ -52,7 +52,7 @@ RuscaRL introduces **checklist-style rubrics** as:
 1. 🧭 **Explicit scaffolding for exploration** during rollout generation, where different rubrics are provided as external guidance within task instructions to steer diverse high-quality responses. This guidance is gradually decayed over time, encouraging the model to internalize the underlying reasoning patterns;
 2. 💎 **Verifiable rewards for exploitation** during model training, where we can obtain robust LLM-as-a-Judge scores using rubrics as references, enabling effective RL on general reasoning tasks.
 
-## 📊 Data Format
+## 🗂️ Dataset
 
 Data is stored in parquet format, example file paths:
 
